@@ -3,7 +3,7 @@
 
 - 🔭 Read my Research Work [Blockchain Technology In Cyber Defense](http://ijcrt.org/viewfull.php?&p_id=IJCRT2406636)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **aadisingh.2101@gmail.com**
 
